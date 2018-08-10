@@ -14,7 +14,7 @@ Fine-Tuning settings - http://seemycgm.com/2017/10/29/fine-tuning-settings/
 
 Tim Omer – Hypodiabetic Blog - https://www.hypodiabetic.co.uk/
 
-DIYPS - https://diyps.org/
+DIYPS.org - https://diyps.org/
 
 Diabetes and Technology - Where Diabetes meets Tech - http://www.diabettech.com/
 
