@@ -14,7 +14,7 @@ Toto je první obrazovka, na kterou narazíte, když spustíte aplikaci AndroidA
 
 Ukazatel aktivního inzulínu by měl být nula, pokud běží pouze váš standardní bazál a žádný z předchozích bolusů už nemá aktivní zůstatek. Čísla v závorkách ukazují, kolik z celku tvoří inzulín z předchozích bolusů a kolik tvoří navýšení/ponížení bazálu vzhledem k DBD naprogramované aplikací AAPS. Tato druhá část může být i záporná, pokud předcházela období se sníženým bazálem.
 
-**Section D:** Is where you can select which information is displayed on the charts below.
+**Sekce D:** Zde můžete vybrat které informace budou zobrazeny v grafu níže na obrazovce.
 
 **Section E:** Is the graph showing your blood glucose (BG) as read from your glucose monitor (CGM) it also shows Nightscout notifications such as fingerstick calibrations, and carbs entries. Long press on the graph to change the time scale. You can choose 6, 8, 12, 18 or 24 hours.
 
